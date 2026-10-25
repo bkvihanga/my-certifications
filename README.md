@@ -4,6 +4,8 @@ Central verification registry archiving verified certificates and digital creden
 
 ---
 
+## 🏆 Core Technical Certifications
+
 ### 1. Introduction to Cybersecurity
 * **Issuing Organization:** Cisco Networking Academy
 * **Issued Date:** September 30, 2026
@@ -29,3 +31,14 @@ Central verification registry archiving verified certificates and digital creden
 * **Verification Code:** `h5BSDVTNAG`
 * **Certificate Document:** [View PDF](./Moratuwa_Python_for_Beginners.pdf)
 * **Official Verification Portal:** [Verify at University of Moratuwa](https://open.uom.lk/verify)
+
+---
+
+## 🛠️ Foundational & Technical Workshops
+
+### Getting Started with Cisco Packet Tracer
+* **Issuing Organization:** Cisco Networking Academy
+* **Issued Date:** October 25, 2026
+* **Credential ID:** `d43d4f9a-7010-429c-84a6-968fa1c7bc03`
+* **Certificate Document:** [View PDF](./Cisco-Getting-Started-with-Packet-Tracer.pdf)
+* **Scope:** Network simulation tool orientation and basic topology fundamentals
