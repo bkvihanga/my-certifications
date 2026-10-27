@@ -34,6 +34,15 @@ Central verification registry archiving verified certificates and digital creden
 
 ---
 
+### 4. Networking Basics
+* **Issuing Organization:** Cisco Networking Academy
+* **Issued Date:** October 27, 2026
+* **Credential ID:** `f4effec5-3b41-4835-8a9f-9fbe346be8e6`
+* **Certificate Document:** [View PDF](./Cisco_Networking_Basics.pdf)
+* **Official Digital Verification:** [Verify on Credly](https://www.credly.com/badges/6888aeab-7be8-4381-b216-92bf9f0c573d/public_url)
+
+----
+
 ## 🛠️ Foundational & Technical Workshops
 
 ### Getting Started with Cisco Packet Tracer
